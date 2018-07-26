@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/dom4j-1.6.1(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/xmlbeans-2.3.0(1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/poi-ooxml-schemas-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/xml-apis-1.0.b2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/poi-ooxml-3.10-FINAL.jar"/>
+	<classpathentry kind="lib" path="C:/Users/The Wimpster/Downloads/poi-3.10-FINAL.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
